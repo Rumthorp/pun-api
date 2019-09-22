@@ -1,10 +1,14 @@
 [
-  {
-    "question": "Why couldn't the archer shoot the chili pepper?",
-    "answer": "Because he didn't habanero."
-  },
-  {
-    "question": "What do you call a mutt that likes hiking?",
-    "answer": "A trail mix."
-  }
+  [
+    "Question",
+    "Why couldn't the archer shoot the chili pepper?",
+    "Answer",
+    "Because he didn't habanero."
+  ],
+  [
+    "Question",
+    "What do you call a mutt that likes hiking?",
+    "Answer",
+    "A trail mix."
+  ]
 ]
